@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ahad</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A Top Rated Plus Full Stack Developer</h3>
 
 - 🔭 I’m currently working on **CRM and Chatbot**
 
